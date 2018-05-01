@@ -1,0 +1,4 @@
+localhost
+8086
+root
+root
